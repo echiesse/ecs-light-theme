@@ -1,0 +1,21 @@
+{
+    "name": "ecs-light",
+    "displayName": "ecs-light",
+    "description": "ECS Light Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ECS Light",
+                "uiTheme": "vs",
+                "path": "./themes/ECS Light-color-theme.json"
+            }
+        ]
+    }
+}
