@@ -66,8 +66,8 @@
 		//"editor.wordHighlightBackground": "#57575740",
 		//"editor.wordHighlightStrongBackground": "#0e639c40",
 		//"editorActiveLineNumber.foreground": "#0b216f",
-		//"editorBracketMatch.background": "#0064001a",
-		//"editorBracketMatch.border": "#b9b9b9",
+		"editorBracketMatch.background": "#ffc0c080",
+		"editorBracketMatch.border": "#ff8080",
 		//"editorCodeLens.foreground": "#999999",
 		//"editorCursor.foreground": "#000000",
 		//"editorError.foreground": "#e51400",
@@ -920,8 +920,8 @@
 		},
 		{
 			"scope": [
+				"punctuation.definition.string",
 				"string",
-				"punctuation.definition.string"
 			],
 			"settings": {
 				"foreground": "#FF0000"
