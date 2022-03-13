@@ -940,7 +940,7 @@
 			],
 			"settings": {
 				"foreground": "#000080",
-				"fontStyle": ""
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1075,6 +1075,17 @@
 		},
 
 		// CPP:
+		// Haskell:
+		{
+			"scope": [
+				"constant.other.haskell"
+			],
+			"settings": {
+				"foreground": "#0080c0",
+				"fontStyle": "bold"
+			}
+		},
+
 		// JSON:
 		// Lua:
 		{
